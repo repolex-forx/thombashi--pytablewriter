@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/thombashi/pytablewriter/commit/1943fe63c5f70567f32ad4cae6a58ec219f58b95",
       "git:hexsha": "1943fe63c5f70567f32ad4cae6a58ec219f58b95",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/thombashi/pytablewriter/commit/77d5b909e45c205e229287ab17db74d6eb4ac3ad",
